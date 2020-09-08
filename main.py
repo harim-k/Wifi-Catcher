@@ -12,11 +12,11 @@ for index in range(1,18):
 
     # convert image to text
     # text = convert_image_to_string(file_name)
-    # bnw_text = convert_image_to_string(f'bnw/{file_name}_BNW')
+    bnw_text = convert_image_to_string(f'bnw/{file_name}_BNW')
     # cut_text = convert_image_to_string(f'cut/{file_name}')
-    cut_bnw_text = convert_image_to_string_BNW(f'cut/{file_name}')
+    #cut_bnw_text = convert_image_to_string_BNW(f'cut/{file_name}')
     
-    text = cut_bnw_text
+    text = bnw_text
     # print
     print(f'================{index}================')
     print(f'text:{text}')
@@ -27,7 +27,7 @@ for index in range(1,18):
     else:
         password = password[0]
 
-    print(f'password: {password}')
+    print(f'predicted password: {password}')
 
     if(is_answer(file_name, password) == True):
         correct_text_ount += 1

@@ -34,17 +34,28 @@ def get_password(text):
     password = []
     splited_texts = re.split(' |\n', text)
     for splited_text in splited_texts:
-        if len(splited_text) >= 8 and splited_text.isalnum() is True:
+        if len(splited_text) >= 8 and remove_special_characters(splited_text).isalnum() == True:
             password.append(splited_text)
 
     return password
 
 
+def remove_special_characters(text):
+    special_characters = "~!@#$%&*+/*?"
+    for special_character in special_characters:
+        text = text.replace(special_character, "")
+
+    return text
+
+
 def is_answer(file_name, text):
     with open(f"answer/{file_name}.txt", "r") as text_file:
         answer_text = text_file.readline()
-    if(answer_text == text):
+    print(f'real password: {answer_text}')
+    if answer_text == text:
         return True
     else:
         return False
-#print(get_password("dddddddddd ddd "))
+
+
+# print(remove_special_characters("ddddddd####"))
