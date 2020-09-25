@@ -1,13 +1,24 @@
-strr = '가1'
-
-print(strr.isalnum())
+text_list = ['CNFE', 'ĤOME', 'Wi-Fi', 'LL', 'ID', ':', 'Cafe_home_2G', 'PW', ':', 'cafehome7979', '700']
 
 
-def has_hangul(text):
-    import re
-    
-    hanCount = len(re.findall(u'[\u3130-\u318F\uAC00-\uD7A3]+', text))
-    return hanCount > 0
+ID = ['Cafe_home_2G']
+password = ['cafehome7979']
 
 
-print(has_hangul(strr))
+
+
+
+print()
+print()
+print()
+print()
+print("================================================== result ===========================================================")
+print()
+print(f'ID : {ID}')
+print(f'password : {password}')
+print()
+print("=====================================================================================================================")
+print()
+print()
+print()
+print()
