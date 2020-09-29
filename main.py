@@ -2,8 +2,8 @@ from google_vision_api import *
 import os
 
 # depend on your path
-#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:/Users/harimkim/Desktop/key.json"
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/harim/Desktop/key.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:/Users/harimkim/Desktop/key.json"
+# os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/Users/harim/Desktop/key.json"
 
 
 
