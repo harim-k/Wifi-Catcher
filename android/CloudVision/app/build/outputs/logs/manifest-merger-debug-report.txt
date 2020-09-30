@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:grantUriPermissions
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:35:13-47
+	android:authorities
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:33:13-60
+	android:exported
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:32:13-67
+manifest
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\9dda75f69c8d4df25c15e53cc9c76653\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\33508ff0b822afbc1b582132e8aedc0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\6c9b23c7ef72c05f1dda3162fb140a9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\1262f1d31a908688d1f35da10fe2f028\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\b2a47a8b8569ab4ec3a47d184b4745c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\4a81bb85a9781f55331ba006a4808049\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\1a8baf01da4a885408991be5fd858c12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\bf891e059b162d1bba4b1d1a3a9377ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\c464585290a0a5d580a8df20d4a28828\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\dda88154c61a1fd7eebb4c5f8f473628\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\f9a1feb8ea9b98dd1381bb4a3f6c96bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\04ac8f137504831d7d8a6c6d396d58c2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\d1e7eff7f2be96a7f9c6ec41b944f32e\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.UPDATE_DEVICE_STATS
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:10:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:11:22-65
+application
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:13:5-40:19
+	android:supportsRtl
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.google.sample.cloudvision.MainActivity
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:19:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:21:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\9dda75f69c8d4df25c15e53cc9c76653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\9dda75f69c8d4df25c15e53cc9c76653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\33508ff0b822afbc1b582132e8aedc0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\33508ff0b822afbc1b582132e8aedc0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\6c9b23c7ef72c05f1dda3162fb140a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\6c9b23c7ef72c05f1dda3162fb140a9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\1262f1d31a908688d1f35da10fe2f028\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\1262f1d31a908688d1f35da10fe2f028\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\b2a47a8b8569ab4ec3a47d184b4745c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\b2a47a8b8569ab4ec3a47d184b4745c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\4a81bb85a9781f55331ba006a4808049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\4a81bb85a9781f55331ba006a4808049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\1a8baf01da4a885408991be5fd858c12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\1a8baf01da4a885408991be5fd858c12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\bf891e059b162d1bba4b1d1a3a9377ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\bf891e059b162d1bba4b1d1a3a9377ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\c464585290a0a5d580a8df20d4a28828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\c464585290a0a5d580a8df20d4a28828\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\dda88154c61a1fd7eebb4c5f8f473628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\dda88154c61a1fd7eebb4c5f8f473628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\f9a1feb8ea9b98dd1381bb4a3f6c96bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\f9a1feb8ea9b98dd1381bb4a3f6c96bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\04ac8f137504831d7d8a6c6d396d58c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\04ac8f137504831d7d8a6c6d396d58c2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\d1e7eff7f2be96a7f9c6ec41b944f32e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\harimkim\.gradle\caches\transforms-2\files-2.1\d1e7eff7f2be96a7f9c6ec41b944f32e\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:36:13-38:57
+	android:resource
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:38:17-55
+	android:name
+		ADDED from C:\Users\harimkim\Desktop\Wifi-Catcher\team\wifi-catcher\CloudVision\app\src\main\AndroidManifest.xml:37:17-67
