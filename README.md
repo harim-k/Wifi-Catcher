@@ -7,14 +7,6 @@ Wifi-Catcher는 스마트폰 와이파이 자동 연결 서비스입니다.
 
 
 
-#android application
-#OCR
-#google vision
-#java
-#python
-
-2. Wifi-Catcher
-
 - 설명
 
 
@@ -26,7 +18,9 @@ Wifi-Catcher는 스마트폰 와이파이 자동 연결 서비스입니다. 스�
 - 구현
 
 
-언어 : java, python
+언어 : java
+
+
 API : google vision
 
 
